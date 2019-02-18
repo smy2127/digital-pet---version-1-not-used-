@@ -1,0 +1,36 @@
+.container {
+	margin: 10px auto;
+	overflow: auto;
+	text-align: center;
+	width: 600px;
+}
+h1 {
+  text-align: center;
+  font-family: sans-serif; }
+.col {
+	float: left;
+	width: 50%;
+}
+img { width:245px;
+  height:245px;
+ }
+
+.states ul,
+.reactions ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+.reactions ul li{
+  float:left;
+  margin-bottom:15px;
+  width:25%
+
+}
+button {
+	background: rgb(215, 207, 207));
+	border: 2px solid #333;
+	border-radius: 4px;
+	cursor: pointer;
+	padding: 6px 14px;
+}
